@@ -5,7 +5,7 @@ Chat with multiple data formats using LangChain Framework.
 2. CSV Data
 3. Excel Data
 4. Image Data
-5. Database
+5. Database (sqlite) | (Azure SQL)
 6. Audio Data
 
 ![image](https://github.com/Chandrakant817/Chat-with-user-selection-data-using-LangChain/assets/69152112/625a793b-afba-4897-b56f-8b23e48eeb6b)
